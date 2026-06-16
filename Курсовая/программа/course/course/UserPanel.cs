@@ -162,13 +162,11 @@ namespace course
                 }
                 else
                 {
-                    // Используем экранирование и фильтр
                     dv.RowFilter = $"[Название] LIKE '%{searchText}%'";
                 }
             }
             else if (dataGridView.DataSource is DataView dvDirect)
             {
-                // На случай, если вы привязали к DataSource сразу DataView
                 if (string.IsNullOrEmpty(searchText))
                 {
                     dvDirect.RowFilter = string.Empty;
@@ -183,11 +181,10 @@ namespace course
         private void materialTextBoxSearchRatesProducts_TextChanged(object sender, EventArgs e)
         {
             string searchText = materialTextBoxSearchRatesProducts.Text.Trim();
-            DataView dv = dataTableRates.DefaultView; // представление нашей таблицы для фильтрации
+            DataView dv = dataTableRates.DefaultView;
 
-            if (string.IsNullOrEmpty(searchText))
+            if (string.IsNullOrEmpty(searchText)) // проверка пустой строки
             {
-                // Если поисковая строка пустая — убираем фильтр и показываем всё
                 dv.RowFilter = string.Empty;
             }
             else
