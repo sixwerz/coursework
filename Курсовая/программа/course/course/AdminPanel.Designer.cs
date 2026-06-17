@@ -370,6 +370,7 @@
             this.materialTextBoxUserPassword.MouseState = MaterialSkin.MouseState.OUT;
             this.materialTextBoxUserPassword.Multiline = false;
             this.materialTextBoxUserPassword.Name = "materialTextBoxUserPassword";
+            this.materialTextBoxUserPassword.Password = true;
             this.materialTextBoxUserPassword.Size = new System.Drawing.Size(210, 50);
             this.materialTextBoxUserPassword.TabIndex = 20;
             this.materialTextBoxUserPassword.Text = "";

@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|c:\\files\\github\\coursework\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\editproductpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\editproductpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\editproductpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\editproductpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\edituserpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\edituserpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\edituserpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\edituserpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\edituserpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\edituserpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\editproductpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\editproductpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|c:\\files\\github\\coursework\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\editproductpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\editproductpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\addreviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\userpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\addreviewpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "EditProductPanel.cs",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\EditProductPanel.cs",
               "RelativeDocumentMoniker": "course\\EditProductPanel.cs",
@@ -82,22 +82,24 @@
               "RelativeToolTip": "course\\EditProductPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T10:26:48.025Z"
+              "WhenOpened": "2026-05-26T10:26:48.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "EditProductPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\EditProductPanel.cs",
               "RelativeDocumentMoniker": "course\\EditProductPanel.cs",
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\EditProductPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\EditProductPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T10:19:49.278Z"
+              "WhenOpened": "2026-05-26T10:19:49.278Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "EditUserPanel.cs",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\EditUserPanel.cs",
               "RelativeDocumentMoniker": "course\\EditUserPanel.cs",
@@ -105,22 +107,24 @@
               "RelativeToolTip": "course\\EditUserPanel.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAwwHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T14:32:22.028Z"
+              "WhenOpened": "2026-05-25T14:32:22.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "EditUserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\EditUserPanel.cs",
               "RelativeDocumentMoniker": "course\\EditUserPanel.cs",
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\EditUserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\EditUserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T14:27:26.93Z"
+              "WhenOpened": "2026-05-25T14:27:26.93Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AddReviewPanel.cs",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\AddReviewPanel.cs",
               "RelativeDocumentMoniker": "course\\AddReviewPanel.cs",
@@ -128,7 +132,8 @@
               "RelativeToolTip": "course\\AddReviewPanel.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T13:07:00.794Z"
+              "WhenOpened": "2026-05-21T13:07:00.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -139,69 +144,74 @@
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\AddReviewPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\AddReviewPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T13:06:52.875Z"
+              "WhenOpened": "2026-05-21T13:06:52.875Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "UserPanel.cs",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\UserPanel.cs",
               "RelativeDocumentMoniker": "course\\UserPanel.cs",
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\UserPanel.cs",
               "RelativeToolTip": "course\\UserPanel.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAIwG0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T12:20:42.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "UserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\UserPanel.cs",
               "RelativeDocumentMoniker": "course\\UserPanel.cs",
-              "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\UserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "course\\UserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\UserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "course\\UserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T10:33:35.626Z"
+              "WhenOpened": "2026-05-21T10:33:35.626Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "AdminPanel.cs",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\AdminPanel.cs",
               "RelativeDocumentMoniker": "course\\AdminPanel.cs",
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\AdminPanel.cs",
               "RelativeToolTip": "course\\AdminPanel.cs",
-              "ViewState": "AgIAACIBAAAAAAAAAAA7wEIBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACMBAAAAAAAAAAAkwEIBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T04:07:20.552Z"
+              "WhenOpened": "2026-05-22T04:07:20.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AdminPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\AdminPanel.cs",
               "RelativeDocumentMoniker": "course\\AdminPanel.cs",
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\AdminPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\AdminPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T07:39:21.127Z"
+              "WhenOpened": "2026-05-21T07:39:21.127Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\Login.cs",
               "RelativeDocumentMoniker": "course\\Login.cs",
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T10:09:32.867Z"
+              "WhenOpened": "2026-05-20T10:09:32.867Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\Login.cs",
               "RelativeDocumentMoniker": "course\\Login.cs",
@@ -209,22 +219,24 @@
               "RelativeToolTip": "course\\Login.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwHUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T10:09:32.544Z"
+              "WhenOpened": "2026-05-20T10:09:32.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Register.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\Register.cs",
               "RelativeDocumentMoniker": "course\\Register.cs",
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\Register.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\Register.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T07:22:50.634Z"
+              "WhenOpened": "2026-05-21T07:22:50.634Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\Register.cs",
               "RelativeDocumentMoniker": "course\\Register.cs",
@@ -232,7 +244,8 @@
               "RelativeToolTip": "course\\Register.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAwwGgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T07:22:52.02Z"
+              "WhenOpened": "2026-05-21T07:22:52.02Z",
+              "EditorCaption": ""
             }
           ]
         }
