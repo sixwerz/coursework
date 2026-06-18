@@ -23,6 +23,7 @@ namespace course
         {
             InitializeComponent();
             this.Text = "Авторизация";
+            this.FormClosed += (s, args) => Application.Exit();
 
             //materialButtonLogin.HighEmphasis = false;
 

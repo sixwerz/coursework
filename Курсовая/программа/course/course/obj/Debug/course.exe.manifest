@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="course.exe" size="55728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="course.exe" size="56240">
       <assemblyIdentity name="course" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>aVQ53vzY3gyaatpDoZozXhLuEfYi7t5MyS0Uvih3cQw=</dsig:DigestValue>
+        <dsig:DigestValue>Z4/6SjAcjF3mBHYWd+Bgeh6L8d3wovnfevLRGRDe6oU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -140,7 +140,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VOEfNZWdS3wNHLmhjQN58do+xD5nev5CVEns6g/b658=</dsig:DigestValue>
+      <dsig:DigestValue>gCeQnonpvYs4H3mvdKm1G4O10Hqi/LwUae4q6kQHjJI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="products_log.ldf" size="8388608" writeableType="applicationData">
@@ -149,7 +149,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>aMpKQ6KpH0J6uRindgwlSmze/aGLw5iePTlQbMRB5r8=</dsig:DigestValue>
+      <dsig:DigestValue>8Cb7WidX/bFXEDNn2ha4U8Yb0J/Jg97mZHa8D/zh4ME=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

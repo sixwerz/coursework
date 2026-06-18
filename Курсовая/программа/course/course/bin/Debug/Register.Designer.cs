@@ -89,6 +89,7 @@
             this.materialTextBoxPassword.MouseState = MaterialSkin.MouseState.OUT;
             this.materialTextBoxPassword.Multiline = false;
             this.materialTextBoxPassword.Name = "materialTextBoxPassword";
+            this.materialTextBoxPassword.Password = true;
             this.materialTextBoxPassword.Size = new System.Drawing.Size(258, 50);
             this.materialTextBoxPassword.TabIndex = 19;
             this.materialTextBoxPassword.Text = "";
@@ -106,6 +107,7 @@
             this.materialTextBoxRepeatPassword.MouseState = MaterialSkin.MouseState.OUT;
             this.materialTextBoxRepeatPassword.Multiline = false;
             this.materialTextBoxRepeatPassword.Name = "materialTextBoxRepeatPassword";
+            this.materialTextBoxRepeatPassword.Password = true;
             this.materialTextBoxRepeatPassword.Size = new System.Drawing.Size(258, 50);
             this.materialTextBoxRepeatPassword.TabIndex = 20;
             this.materialTextBoxRepeatPassword.Text = "";

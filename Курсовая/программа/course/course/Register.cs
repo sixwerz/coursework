@@ -20,7 +20,7 @@ namespace course
         public Register()
         {
             InitializeComponent();
-            //this.FormClosed += (s, args) => Application.Exit();
+            this.FormClosed += (s, args) => Application.Exit();
             this.Text = "Регистрация";
         }
 
@@ -93,7 +93,7 @@ namespace course
                             MessageBox.Show("Регистрация успешно завершена!", "Успех", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                             // Закрываем форму регистрации или перенаправляем на форму авторизации
-                            this.Close();
+                            this.Hide();
                             Login login = new Login();
                             login.Show();
                         }
