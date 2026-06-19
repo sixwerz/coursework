@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|c:\\files\\github\\coursework\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,7 +27,7 @@
       "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|c:\\files\\github\\coursework\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0208CEBC-CC30-466E-9527-7D19444501E8}|course\\course.csproj|solutionrelative:course\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -78,12 +78,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "dbo.products [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Title": "dbo.products.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__FILES_GITHUB_COURSEWORK_\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F_\u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0410_COURSE_COURSE_PRODUCTS.MDF/True/SqlTable/dbo.products.sql",
-              "ToolTip": "dbo.products [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__FILES_GITHUB_COURSEWORK_\u041A\u0423\u0420\u0421\u041E\u0412\u0410\u042F_\u041F\u0420\u041E\u0413\u0420\u0410\u041C\u041C\u0410_COURSE_COURSE_PRODUCTS.MDF/True/SqlTable/dbo.products.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-06-18T14:21:49.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-18T14:21:49.035Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "course\\EditProductPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T10:26:48.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-26T10:26:48.025Z"
             },
             {
               "$type": "Document",
@@ -107,8 +105,7 @@
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\EditProductPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\EditProductPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T10:19:49.278Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-05-26T10:19:49.278Z"
             },
             {
               "$type": "Document",
@@ -120,8 +117,7 @@
               "RelativeToolTip": "course\\EditUserPanel.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAwwHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T14:32:22.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T14:32:22.028Z"
             },
             {
               "$type": "Document",
@@ -132,8 +128,7 @@
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\EditUserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\EditUserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T14:27:26.93Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-05-25T14:27:26.93Z"
             },
             {
               "$type": "Document",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "course\\AddReviewPanel.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T13:07:00.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T13:07:00.794Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\AddReviewPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\AddReviewPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T13:06:52.875Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-05-21T13:06:52.875Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "course\\UserPanel.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T12:20:42.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T12:20:42.447Z"
             },
             {
               "$type": "Document",
@@ -182,8 +174,7 @@
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\UserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\UserPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T10:33:35.626Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-05-21T10:33:35.626Z"
             },
             {
               "$type": "Document",
@@ -195,8 +186,7 @@
               "RelativeToolTip": "course\\AdminPanel.cs",
               "ViewState": "AgIAACMBAAAAAAAAAAAkwEIBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T04:07:20.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T04:07:20.552Z"
             },
             {
               "$type": "Document",
@@ -207,8 +197,7 @@
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\AdminPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\AdminPanel.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T07:39:21.127Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-05-21T07:39:21.127Z"
             },
             {
               "$type": "Document",
@@ -230,7 +219,7 @@
               "RelativeDocumentMoniker": "course\\Login.cs",
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\Login.cs",
               "RelativeToolTip": "course\\Login.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-20T10:09:32.544Z",
               "EditorCaption": ""
@@ -244,8 +233,7 @@
               "ToolTip": "C:\\files\\github\\coursework\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0430\\course\\course\\Register.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "course\\Register.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T07:22:50.634Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-05-21T07:22:50.634Z"
             },
             {
               "$type": "Document",
@@ -257,8 +245,7 @@
               "RelativeToolTip": "course\\Register.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T07:22:52.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T07:22:52.02Z"
             }
           ]
         }
